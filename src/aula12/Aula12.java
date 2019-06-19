@@ -66,7 +66,7 @@ public class Aula12 {
         cachorro.setPeso(55.30f);
         cachorro.setIdade(4);
         cachorro.setMembros(3);
-        cachorro.setcorPelo("Marrom");
+        cachorro.setcorPelo("Amarelo");
         cachorro.enterrarOsso();
         cachorro.abanarRabo();
 
