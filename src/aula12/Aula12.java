@@ -69,6 +69,7 @@ public class Aula12 {
         cachorro.setcorPelo("Amarelo");
         cachorro.enterrarOsso();
         cachorro.abanarRabo();
+        cachorro.emitirSom();
 
     }
 
